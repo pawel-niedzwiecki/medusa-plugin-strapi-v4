@@ -28,5 +28,5 @@
 
 # medusa-plugin-strapi-v4
 
-The plugin for medusajs, thanks to her you can merge all function medusajs with Strapi v4.
+The plugin for medusajs, thanks to him you can merge all function medusajs with Strapi v4.
 Enough follow under tutorial and you suld well got powerfull :)

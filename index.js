@@ -1,5 +1,2 @@
-function isUXU(string) {
-  return string === "UXU";
-}
-
-module.export = isUXU;
+// noop
+console.log("INIT INDEX.js");
