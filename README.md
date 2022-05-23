@@ -23,6 +23,10 @@
   <a href="https://twitter.com/intent/follow?screen_name=medusajs">
     <img src="https://img.shields.io/twitter/follow/medusajs.svg?label=Follow%20@medusajs" alt="Follow @medusajs" />
   </a>
+
 </p>
 
 # medusa-plugin-strapi-v4
+
+The plugin for medusajs, thanks to her you can merge all function medusajs with Strapi v4.
+Enough follow under tutorial and you suld well got powerfull :)
