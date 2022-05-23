@@ -1,7 +1,15 @@
 {
-  "name": "plugin-medusajs-strapi-v4",
+  "name": "medusa-plugin-strapi-v4",
+  "keywords": [
+    "strapi",
+    "medusa",
+    "medusa-cms",
+    "medusa-plugin",
+    "medusa-plugin-strapi",
+    "medusa-plugin-strapi-v4"
+  ],
   "version": "1.0.0",
-  "description": "",
+  "description": "Plugin for integrating medusajs with CMS ,,straps v4''",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

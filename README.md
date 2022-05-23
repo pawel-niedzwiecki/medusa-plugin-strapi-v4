@@ -1,1 +1,1 @@
-# plugin-medusajs-strapi-v4
+# medusa-plugin-strapi-v4
