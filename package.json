@@ -12,6 +12,7 @@
   "description": "Plugin for integrating medusajs with CMS ,,straps v4''",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon --watch './dev/**/*' , tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,12 @@
     "url": "https://github.com/pawel-niedzwiecki/medusa-plugin-strapi-v4"
   },
   "author": "Paweł Niedźwiecki",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "medusa-interfaces": "^1.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16",
+    "typescript": "^4.6.4"
+  }
 }
