@@ -22,6 +22,7 @@
   "author": "Paweł Niedźwiecki",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.27.2",
     "medusa-interfaces": "^1.3.0"
   },
   "devDependencies": {
